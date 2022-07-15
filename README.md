@@ -1,3 +1,3 @@
 # Tetris
 
-![pic1](pictures/tetris.png)
+![pic1](pictures/Tetris.png)
